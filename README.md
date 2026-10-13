@@ -30,7 +30,7 @@
 
 ## 🚀 Getting Started Locally (VS Code)
 
-### 1. Frontend (React & Vite) and Backend (Python Flask & Database)
+### Frontend (React & Vite) and Backend (Python Flask & Database)
 To run the interactive React frontend development server and backend database:
 ```bash
 # Install dependencies (use legacy peer deps if needed)
