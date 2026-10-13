@@ -1,0 +1,6 @@
+{
+  "name": "InternTrack - University Internship Management System",
+  "description": "3NF normalized 12-table DBMS for university internship applications, faculty approvals, mentor assignments, and progress monitoring with OLED dark UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
