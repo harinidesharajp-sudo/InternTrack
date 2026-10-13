@@ -1,6 +1,7 @@
 # 🎓 InternTrack: University Internship Management System
+Project 35. Database Management System for Internship Application and Progress Monitoring 
 
-> A 12-table 3NF Normalized Relational Database Management System (RDBMS) for university internship applications, faculty approvals, mentor assignments, daily work tracking, dual performance evaluations, and certification.
+> A 12-table 3NF Normalized Relational Database Management System (RDBMS) for university internship applications, faculty approvals, mentor assignments, daily work tracking, dual performance evaluations, and certification. This Repository consists of all the code files related to the application and also the PPT related to the project.
 
 ---
 
